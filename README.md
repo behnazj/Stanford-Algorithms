@@ -1,5 +1,5 @@
 # Stanford Algorithms Course
 
-This repository contains my python files for programming assignments.
+Repository for algo programming assignments and lecture notes (part 1 and 2).
 
-Last updated on 2020-02-28
+Last updated on 2020-02-27
